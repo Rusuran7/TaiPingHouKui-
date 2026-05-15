@@ -32,7 +32,7 @@ CALCULATE(
 ## $\color{#00D1FF}{\text{🚀 Как запустить}}$
 1. $\color{#00FF00}{\text{Настройте базу данных Postgres.}}$
 2. $\color{#00FF00}{\text{Создайте файл .env с вашими доступами (см. пример ниже).}}$
-3. $\color{#00FF00}{\text{Запустите main.py.}}$
+3. $\color{#00FF00}{\text{Запустите etl.py.}}$
 
 ```bash
 python etl.py
