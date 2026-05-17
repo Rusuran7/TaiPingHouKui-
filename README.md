@@ -13,4 +13,5 @@
 3. Настройте ключи доступа в `.env` (используйте `.env.example` как шаблон).
 4. Установите зависимости: `pip install -r requirements.txt`.
 5. Запустите `python etl.py`.
-![Uploading image.png…]()
+
+
