@@ -14,3 +14,4 @@
 4. Установите зависимости: `pip install -r requirements.txt`.
 5. Запустите `python etl.py`.
 
+![Uploading image.png…]()
